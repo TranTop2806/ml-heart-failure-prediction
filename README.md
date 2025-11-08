@@ -149,17 +149,6 @@ pip install xgboost shap imbalanced-learn lightgbm
 - `matplotlib`, `seaborn`
 - `statsmodels` (cho phân tích thống kê)
 
-## 📁 Cấu Trúc Dự Án
-
-```
-.
-├── dataset.xlsx                          # Dữ liệu gốc
-├── development_set_imputed_unscaled.xlsx # Tập development đã xử lý
-├── test_set_imputed_unscaled.xlsx       # Tập test đã xử lý
-├── KhoaLuan.ipynb                       # Notebook chính chứa toàn bộ code
-└── README.md                            # File này
-```
-
 ## 🚀 Sử Dụng
 
 1. Mở file `KhoaLuan.ipynb` trong Jupyter Notebook hoặc JupyterLab
@@ -208,7 +197,7 @@ Notebook bao gồm các biểu đồ sau:
 
 ## 👤 Tác Giả
 
-**Đỗ Nhật Huy** - Sinh viên Khoa Y, Đại học Y Dược TP.HCM
+**Đỗ Nhật Huy** - Học viên Bác sĩ Nội trú, Trường Y, Đại học Y Dược TP.HCM
 **Trần Văn Anh Thư** - Sinh viên Khoa Công Nghệ Thông Tin, Đại học Khoa học Tự nhiên TP.HCM
 
 ## 📄 Giấy Phép
