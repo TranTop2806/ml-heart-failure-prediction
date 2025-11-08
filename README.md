@@ -209,6 +209,7 @@ Notebook bao gồm các biểu đồ sau:
 ## 👤 Tác Giả
 
 **Đỗ Nhật Huy** - Sinh viên Khoa Y, Đại học Y Dược TP.HCM
+
 **Trần Văn Anh Thư** - Sinh viên Khoa Công Nghệ Thông Tin, Đại học Khoa học Tự nhiên TP.HCM
 
 ## 📄 Giấy Phép
